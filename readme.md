@@ -20,7 +20,9 @@
 | React            | ![React](https://readmebadge.vercel.app/badges/react.svg)                                                                               | `![React](https://readmebadge.vercel.app/badges/react.svg)`       |
 | Next.js          | ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)                                                                            | `![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)`    |
 | Tailwind CSS     | ![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)                                                                     | `![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)`    |
-| shadcn UI        | ![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)                                                                              | `![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)`    |
+| shadcn UI        | ![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)                                                                           | `![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)`    |
+| Chakra UI        | ![chakraui](https://readmebadge.vercel.app/badges/chakraui.svg)                                                                         | `![chakraui](https://readmebadge.vercel.app/badges/chakraui.svg)`    |
+| Material UI      | ![materialui](https://readmebadge.vercel.app/badges/materialui.svg)                                                                     | `![materialui](https://readmebadge.vercel.app/badges/materialui.svg)`    |
 
 
 ### Hosting
