@@ -1,6 +1,16 @@
 # Github Readme Badges
 
 
+### Languages
+
+| Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| HTML            | ![HTML](https://readmebadge.vercel.app/badges/html.svg)                                                                                  | `![HTML](https://readmebadge.vercel.app/badges/html.svg)`       |
+| CSS             | ![CSS](https://readmebadge.vercel.app/badges/css.svg)                                                                                  | `![CSS](https://readmebadge.vercel.app/badges/css.svg)`       |
+| Javascript      | ![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)                                                                      | `![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)`       |
+| Typescript      | ![Typescript](https://readmebadge.vercel.app/badges/typescript.svg)                                                                      | `![Typescript](https://readmebadge.vercel.app/badges/typescript.svg)`       |
+
+
 ### Framework & Libraries
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
