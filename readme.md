@@ -5,18 +5,18 @@
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| React            | ![React](https://raw.githubusercontent.com/Ansub/github-readme-badges/7017c97ac38ea72298bdc2e6f3605f730252050a/assets/react.svg)        | `![React] (https://raw.githubusercontent.com/Ansub/github-readme-badges/7017c97ac38ea72298bdc2e6f3605f730252050a/assets/react.svg)`       |
-| Next.js          | ![Next.js](https://raw.githubusercontent.com/Ansub/github-readme-badges/7017c97ac38ea72298bdc2e6f3605f730252050a/assets/nextjs.svg)     | `![Next.js] (https://raw.githubusercontent.com/Ansub/github-readme-badges/7017c97ac38ea72298bdc2e6f3605f730252050a/assets/nextjs.svg)`    |
+| React            | ![React](https://readmebadge.vercel.app/badges/vercel.svg)                                                                              | `![React] (https://readmebadge.vercel.app/badges/vercel.svg)`       |
+| Next.js          | ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)                                                                            | `![Next.js] (https://readmebadge.vercel.app/images/nextjs.svg)`    |
 
 
 ### Hosting
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Vercel            | ![Vercel](https://raw.githubusercontent.com/Ansub/github-readme-badges/7017c97ac38ea72298bdc2e6f3605f730252050a/assets/vercel.svg)     | `![Vercel] (https://raw.githubusercontent.com/Ansub/github-readme-badges/7017c97ac38ea72298bdc2e6f3605f730252050a/assets/vercel.svg)`     |
+| Vercel            | ![Vercel](https://readmebadge.vercel.app/badges/vercel.svg)                                                                            | `![Vercel] (https://readmebadge.vercel.app/badges/vercel.svg)`       |
 
 ### Database
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Supabase         | ![Supabase](https://raw.githubusercontent.com/Ansub/github-readme-badges/7017c97ac38ea72298bdc2e6f3605f730252050a/assets/supabase.svg)  | `![Supabase] (https://raw.githubusercontent.com/Ansub/github-readme-badges/7017c97ac38ea72298bdc2e6f3605f730252050a/assets/supabase.svg)`    |
+| Supabase         | ![Supabase](https://readmebadge.vercel.app/badges/supabase.svg)                                                                         | `![Supabase] (https://readmebadge.vercel.app/badges/vercel.svg)`    |
