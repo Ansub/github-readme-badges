@@ -6,19 +6,20 @@
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | HTML            | ![HTML](https://readmebadge.vercel.app/badges/html.svg)                                                                                  | `![HTML](https://readmebadge.vercel.app/badges/html.svg)`       |
-| CSS             | ![CSS](https://readmebadge.vercel.app/badges/css.svg)                                                                                  | `![CSS](https://readmebadge.vercel.app/badges/css.svg)`       |
+| CSS             | ![CSS](https://readmebadge.vercel.app/badges/css.svg)                                                                                    | `![CSS](https://readmebadge.vercel.app/badges/css.svg)`       |
 | Javascript      | ![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)                                                                      | `![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)`       |
 | Typescript      | ![Typescript](https://readmebadge.vercel.app/badges/typescript.svg)                                                                      | `![Typescript](https://readmebadge.vercel.app/badges/typescript.svg)`       |
+| Python          | ![Python](https://readmebadge.vercel.app/badges/python.svg)                                                                              | `![Python](https://readmebadge.vercel.app/badges/python.svg)`       |
 
 
 ### Framework & Libraries
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| React            | ![React](https://readmebadge.vercel.app/badges/react.svg)                                                                              | `![React](https://readmebadge.vercel.app/badges/react.svg)`       |
+| React            | ![React](https://readmebadge.vercel.app/badges/react.svg)                                                                               | `![React](https://readmebadge.vercel.app/badges/react.svg)`       |
 | Next.js          | ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)                                                                            | `![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)`    |
-| Tailwind CSS     | ![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)                                                                  | `![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)`    |
-| shadcn UI     | ![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)                                                                  | `![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)`    |
+| Tailwind CSS     | ![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)                                                                     | `![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)`    |
+| shadcn UI     | ![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)                                                                              | `![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)`    |
 
 
 ### Hosting
@@ -33,3 +34,5 @@
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Supabase         | ![Supabase](https://readmebadge.vercel.app/badges/supabase.svg)                                                                         | `![Supabase](https://readmebadge.vercel.app/badges/vercel.svg)`    |
+| Firebase         | ![Firebase](https://readmebadge.vercel.app/badges/firebase.svg)                                                                         | `![Firebase](https://readmebadge.vercel.app/badges/firebase.svg)`    |
+| Planetscale      | ![Planetscale](https://readmebadge.vercel.app/badges/planetscale.svg)                                                                   | `![Planetscale](https://readmebadge.vercel.app/badges/planetscale.svg)`    |
