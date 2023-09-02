@@ -36,3 +36,10 @@
 | Supabase         | ![Supabase](https://readmebadge.vercel.app/badges/supabase.svg)                                                                         | `![Supabase](https://readmebadge.vercel.app/badges/vercel.svg)`    |
 | Firebase         | ![Firebase](https://readmebadge.vercel.app/badges/firebase.svg)                                                                         | `![Firebase](https://readmebadge.vercel.app/badges/firebase.svg)`    |
 | Planetscale      | ![Planetscale](https://readmebadge.vercel.app/badges/planetscale.svg)                                                                   | `![Planetscale](https://readmebadge.vercel.app/badges/planetscale.svg)`    |
+
+
+### Design
+
+| Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Figma            | ![Figma](https://readmebadge.vercel.app/badges/figma.svg)                                                                               | `![Figma](https://readmebadge.vercel.app/badges/figma.svg)`       |
