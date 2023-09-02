@@ -20,14 +20,16 @@
 | React            | ![React](https://readmebadge.vercel.app/badges/react.svg)                                                                               | `![React](https://readmebadge.vercel.app/badges/react.svg)`       |
 | Next.js          | ![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)                                                                            | `![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)`    |
 | Tailwind CSS     | ![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)                                                                     | `![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)`    |
-| shadcn UI     | ![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)                                                                              | `![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)`    |
+| shadcn UI        | ![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)                                                                              | `![shadcnUI](https://readmebadge.vercel.app/badges/shadcn.svg)`    |
 
 
 ### Hosting
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Vercel            | ![Vercel](https://readmebadge.vercel.app/badges/vercel.svg)                                                                            | `![Vercel](https://readmebadge.vercel.app/badges/vercel.svg)`       |
+| Vercel           | ![Vercel](https://readmebadge.vercel.app/badges/vercel.svg)                                                                             | `![Vercel](https://readmebadge.vercel.app/badges/vercel.svg)`       |
+| AWS              | ![AWS](https://readmebadge.vercel.app/badges/aws.svg)                                                                                   | `![AWS](https://readmebadge.vercel.app/badges/aws.svg)`       |
+| Railway          | ![Railway](https://readmebadge.vercel.app/badges/railway.svg)                                                                           | `![Railway](https://readmebadge.vercel.app/badges/railway.svg)`       |
 
 
 ### Database
