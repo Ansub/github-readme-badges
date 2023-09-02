@@ -10,6 +10,7 @@
 | Javascript      | ![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)                                                                      | `![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)`       |
 | Typescript      | ![Typescript](https://readmebadge.vercel.app/badges/typescript.svg)                                                                      | `![Typescript](https://readmebadge.vercel.app/badges/typescript.svg)`       |
 | Python          | ![Python](https://readmebadge.vercel.app/badges/python.svg)                                                                              | `![Python](https://readmebadge.vercel.app/badges/python.svg)`       |
+| GraphQL         | ![GraphQL](https://readmebadge.vercel.app/badges/graphql.svg)                                                                            | `![GraphQL](https://readmebadge.vercel.app/badges/graphql.svg)`       |
 
 
 ### Framework & Libraries
